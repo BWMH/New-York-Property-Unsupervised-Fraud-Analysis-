@@ -1,1 +1,2 @@
 # New-York-Property-Unsupervised-Fraud-Analysis-
+This project aimed to apply unsupervised techniques to identify potential tax fraud within New York Property. I applied data cleaning such as imputation and feature engineering to improve data qualiy. I later created 45 expert variables and reduced dimensions via Z-scale and PCA. Eventually, I developed a fraud score model using Distance Measures and Autoencoder to detect 100+ suspected fraud cases within the dataset.
